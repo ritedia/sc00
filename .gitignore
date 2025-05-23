@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.python-version
+
+# Data files
+*.csv
+*.log
+*.json
+
+# Environment files
+.env
+.venv
+
+# System
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
